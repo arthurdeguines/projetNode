@@ -33,6 +33,7 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "grunt-cli": "^1.2.0"
   }
 }
